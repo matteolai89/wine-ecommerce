@@ -7,11 +7,19 @@ const Footer = () => {
     <div className="footer-container">
       <p>2022 Matteo Lai All rights reserved</p>
       <p className="icons">
-        <a href="https://www.instagram.com/matteolai89/" target="_blank">
+        <a
+          href="https://www.instagram.com/matteolai89/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <AiFillInstagram />
         </a>
 
-        <a href="https://www.linkedin.com/in/matteolaidev/" target="_blank">
+        <a
+          href="https://www.linkedin.com/in/matteolaidev/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <AiFillLinkedin />
         </a>
       </p>
